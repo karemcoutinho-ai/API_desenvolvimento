@@ -1,0 +1,12 @@
+{
+  "name": "av1-api",
+  "version": "1.0.0",
+  "description": "AV1 - API simples em Node + Express (parte 1)",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
